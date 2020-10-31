@@ -23,3 +23,10 @@ Hook Api CertVerifyTimeValidity和GetLocalTime。
 #####  [SigThief证书拷贝](https://github.com/secretsquirrel/SigThief)
 
 将exe的签名信息复制到另外一个exe程序上，（复制的证书是无效的）。
+
+
+
+#### [时间戳服务器](https://github.com/supermanc88/TimeStampResponder-CSharp)
+
+给签名的驱动文件打上时间戳
+
